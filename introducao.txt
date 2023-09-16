@@ -1,6 +1,3 @@
 Olá, iniciando introdução! Mudança para nova branch.
 Joao esteve aqui. Tentando fazer alteração mais uma vez
 Kayque esteve aqui. Tentando fazer alteração mais uma vez
-Alterando para conflito.
-Outra alteração de Kayque. Outro teste.
-Alteração depois de aceitar conflito
